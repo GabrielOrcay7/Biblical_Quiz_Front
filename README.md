@@ -6,8 +6,7 @@ Quiz Biblico Front
 
 #### Para iniciar a execução do projeto é preciso, antes de tudo, instalar as dependências. Para isso basta executar os comandos:
 
-npm install axios react-router-dom
-\\
+npm install axios react-router-dom<br/>
 npm install axios
 
 
