@@ -14,4 +14,4 @@ npm install axios
 
 npm start
 
-Agora, o frontend estará rodando em `http://localhost:3000` e se conectará ao backend para buscar as perguntas.<br/>
+Assim o frontend estará rodando em `http://localhost:3000` e se conectará ao backend para buscar as perguntas.<br/>
